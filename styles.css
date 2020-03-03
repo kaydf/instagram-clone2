@@ -1,0 +1,143 @@
+body {
+    background-color: #fcfcfc;
+    font-family: 'Roboto', sans-serif;
+    height: 700px
+}
+
+
+
+main {
+    text-align: center;
+    display: flex;
+    padding: 100px;
+    margin-left: 80px;
+}
+
+.pic {
+    height: 508px;
+    width: 330px;
+    float: left;
+    margin-left: 350px;
+    /* padding: 30px */
+}
+
+.profile-picture {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    /* margin-top: 10px; */
+    margin-top: 10px;
+    top: 30px;
+    /* margin-bottom:10px; */
+    padding: 15px;
+    
+}
+
+.login-box {
+    border: 1px solid lightgray;
+    background-color: white;
+    height: 280px;
+    width: 300px;
+    position: relative;
+    padding: 5px;
+    /* margin: 3px */
+    margin-left: 25px;
+    margin-top: 70px;
+}
+
+.blue-button {
+background-color: #4caaed;
+color: white;
+font-size: 12px;
+padding: 5px;
+width:150px;
+border-radius: 7%;
+font-weight: bold;
+height: 30px
+}
+
+.a-tag {
+    text-decoration: none !important;
+   color: #4caaed;
+   font-weight: bold;
+}
+
+.button1, .button2 {
+    width: 100px;
+    height: 40px;
+    border-radius: 15%;
+    background-color: black;
+    color: white;
+}
+
+.title {
+    font-family: 'Rouge Script', cursive;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+
+
+.footer {
+    display: flex;
+    position: relative;
+    top: 100px;
+    float: left;
+    
+}
+.footer li a {
+text-decoration: none;
+list-style: none;
+color: #3e4c78;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+}
+
+.question {
+    display: inline-block;
+    font-size: 15px;
+    padding: 30px;
+    
+}
+
+.footer li {
+    list-style-type: none;
+    padding: 10px;
+    font-size: 13px;
+    font-weight:
+    
+}
+.copyright {
+    float: right;
+    font-size: 12.5px;
+    bottom: 10px;
+}
+
+.buttons {
+    align-items: stretch;
+    position: relative;
+    bottom: 70px;
+}
+footer {
+    display: inline-block;
+}
+
+.copyright1 {
+    margin-left: 570px;
+    font-weight: bold;
+    color: #959596;
+}
+
+.idek {
+    display: inline;
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+}
+ 
+p {
+    position: relative;
+    bottom: 30px;
+    font-size: 13px
+}
